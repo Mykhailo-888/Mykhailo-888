@@ -22,6 +22,8 @@ FitAI is an experimental AI platform combining:
 - Latent physiological state concepts
 - Interactive AI research dashboards
 - Experimental hypercomplex AI ideas
+- Dockerized deployment
+- Render cloud deployment
 
 Interactive sections and dashboard blocks present the core ideas, architecture and physiological AI concepts behind the project.
 
@@ -61,7 +63,6 @@ Interactive sections and dashboard blocks present the core ideas, architecture a
 
 ## Currently Exploring
 
-- OpenCV
 - Generative AI Concepts
 - Diffusion & Gaussian Noise Processes
 - Hypercomplex Mathematics for AI
