@@ -1,16 +1,30 @@
-## Hi there 👋
+## Technologies & Practical Experience
 
-<!--
-**Mykhailo-888/Mykhailo-888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Python
+- NumPy
+- Pandas
+- Django
+- SQLite
+- Docker
+- Git
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## AI & Mathematical Focus
+
+- Neural Network Fundamentals
+- Gradient Computation
+- Matrix Operations
+- SVD & Pseudoinverse Concepts
+- Mathematical Modeling
+- Physiological AI Systems
+- Experimental AI Architectures
+
+---
+
+## Currently Exploring
+
+- OpenCV
+- Generative AI Concepts
+- Diffusion & Gaussian Noise Processes
+- Hypercomplex Mathematics for AI
