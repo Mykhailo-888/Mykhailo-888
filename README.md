@@ -8,7 +8,7 @@ Physiologically reactive AI research platform focused on neural architectures, m
 
 https://fitai-research.onrender.com/
 
-> Press "Get Started" to enter the onboarding flow and explore the interactive physiological AI dashboard.
+>Press "Get Started" to explore the interactive physiological AI dashboard and prediction system.
 
 ---
 
